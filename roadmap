@@ -1,0 +1,53 @@
+🗺️ Project Roadmap
+This project is a real-time chat application built using React (frontend) and Node.js with Socket.IO (backend).
+
+✅ Phase 1: Project Setup
+ Initialize Git repository
+
+ Create frontend with Vite + React
+
+ Create backend with Express + Socket.IO
+
+ Connect frontend and backend via WebSocket
+
+🚧 Phase 2: Basic Chat Features
+ User enters name to join chat
+
+ Send and receive real-time messages
+
+ Display message list with sender name
+
+ Auto-scroll to latest message
+
+ Add timestamp to each message
+
+🚧 Phase 3: UI/UX Improvements
+ Basic chat layout with CSS or Tailwind
+
+ Responsive design for mobile
+
+ Show active users list
+
+ Different colors for each user’s messages
+
+🚧 Phase 4: Advanced Features
+ Private messaging (DMs)
+
+ Emoji picker
+
+ Message reactions
+
+ File/image sharing
+
+ Chat history persistence (DB)
+
+🧪 Phase 5: Deployment & Testing
+ Host backend (Render, Railway, or Vercel Functions)
+
+ Host frontend (Vercel, Netlify, etc.)
+
+ Environment variable setup
+
+ Add unit/integration tests
+
+ CI/CD setup (optional)
