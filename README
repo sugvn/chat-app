@@ -27,9 +27,3 @@ A simple, full-stack real-time chat application built with **React** on the fron
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/your-username/realtime-chat-app.git
-cd realtime-chat-app
