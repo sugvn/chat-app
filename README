@@ -1,0 +1,35 @@
+
+# 💬 Realtime Chat App (React + Socket.IO)
+
+A simple, full-stack real-time chat application built with **React** on the frontend and **Node.js + Socket.IO** on the backend.
+
+## ✨ Features
+
+- Real-time messaging using WebSockets
+- Responsive and clean chat UI
+- Auto-updating message feed
+- Message input with send-on-Enter
+- Easily extendable for usernames, rooms, or authentication
+
+---
+
+## 📦 Tech Stack
+
+### Frontend
+- React (with Hooks)
+- Socket.IO Client
+
+### Backend
+- Node.js
+- Express.js
+- Socket.IO
+- CORS enabled
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/your-username/realtime-chat-app.git
+cd realtime-chat-app
