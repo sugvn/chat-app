@@ -1,0 +1,23 @@
+.main-container {
+  display:flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.people,.chat {
+  display:flex;
+  height:calc(100vh - 10px);
+  border: 1px solid rgba(0,0,0,0.3);
+  margin:5px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.people{
+  width: calc(25vw - 10px);
+  margin-right: 0px;
+}
+
+.chat{
+  width: calc(75vw - 10px);
+}

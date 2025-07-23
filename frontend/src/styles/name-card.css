@@ -1,0 +1,37 @@
+.name-card {
+  display:flex;
+  height:50px;
+  width:100%;
+  padding:7px;
+}
+
+.pfp{
+  height:40px;
+  width:40px;
+  border-radius:50%;
+  margin-left:5px;
+  align-items:center;
+  display:flex;
+  justify-content:center;
+  margin-right:5px;
+  background-color:rgb(0,100,0);
+}
+
+.details{
+  display:flex;
+}
+
+.details .name{
+  font-size:15px;
+  color:rgb(255,255,255);
+  display:flex;
+  width:100%;
+  align-items:center;
+  margin-bottom:1px;
+}
+
+.details .info{
+  font-size:12px;
+  display:flex;
+  color:rgb(100,100,100);
+}
